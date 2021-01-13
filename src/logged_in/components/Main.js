@@ -9,7 +9,6 @@ import smoothScrollTop from "../../shared/functions/smoothScrollTop";
 import persons from "../dummy_data/persons";
 import LazyLoadAddBalanceDialog from "./subscription/LazyLoadAddBalanceDialog";
 
-
 const styles = (theme) => ({
   main: {
     marginLeft: theme.spacing(9),
