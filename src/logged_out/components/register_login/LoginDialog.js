@@ -148,7 +148,7 @@ function LoginDialog(props) {
               <HighlightedInformation>
                 Email is: <b>test@web.com</b>
                 <br />
-                Password is: <b>HaRzwc</b>
+                Password is: <b>Vishal</b>
               </HighlightedInformation>
             )}
           </Fragment>
