@@ -9,7 +9,7 @@ Remains of a SaaS business I once tried to build. Now transformed into a templat
 
 [<img src="/.github/gifs/showcase.gif">](https://reactsaastemplate.com "Go to demo website")
 
-## Vishal1
+## Vishal12
 ## Getting Started
 
 ### Prerequisites
